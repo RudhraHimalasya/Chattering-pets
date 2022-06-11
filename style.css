@@ -1,0 +1,22 @@
+.logo {
+    width: 100px;
+    
+    border-radius: 25px;
+}
+body {
+    background-color: aqua;
+}
+
+.pic {
+height: 300px;
+}
+
+#username {
+    width: 500px !important;
+}
+
+
+.user_tick
+{
+	width:20px;
+}
